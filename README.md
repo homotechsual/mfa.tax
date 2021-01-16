@@ -1,7 +1,7 @@
-# sso-wall-of-shame
+# mfa.tax
 
-A list of vendors that treat single sign-on as a luxury feature, not a core security requirement.
+A list of vendors that treat Multi-Factor Authentication (MFA) as a luxury feature, not a core security requirement.
 
-Page structure lives in index.md, including intro text and FAQs for now.
+Page structure lives in `index.md`, including intro text and FAQs for now.
 
-List of vendors is in _data/vendors.yml.
+List of vendors is in `_data/vendors.yml`.
