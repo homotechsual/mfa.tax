@@ -1,9 +1,9 @@
-title: The SSO Wall of Shame
+title: mfa.tax
 description: >-
-  A list of vendors that treat single sign-on as a luxury feature, not a core
-  security requirement.
+  A list of vendors that treat Multi-Factor Authentication (MFA)
+  as a luxury feature, not a core security requirement.
 
-url: https://robchahin.github.io/sso-wall-of-shame
+url: https://mfa.tax
 
 theme: jekyll-theme-cayman
 kramdown:
