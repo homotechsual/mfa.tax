@@ -5,3 +5,10 @@
   percent_increase: 240%
   pricing_source: https://otter.ai/pricing
   updated_at: 2020-12-23
+- name: Nitro Sign
+  url: https://gonitro.com
+  base_pricing: $13.99 per u/m
+  mfa_pricing: $40.99 per u/m
+  percent_increase: 193%
+  pricing_source: https://www.gonitro.com/pricing#nitro-sign
+  updated_at: 2021-09-14
